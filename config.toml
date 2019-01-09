@@ -1,4 +1,4 @@
-baseURL = "http://carthik.net/"
+baseURL = "https://carthik.net/"
 languageCode = "en-us"
 title = "Carthik Sharma"
 theme = "hugo-coder"
